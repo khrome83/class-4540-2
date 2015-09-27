@@ -11,6 +11,7 @@
     <president:president>
         <president:number>1</president:number>
         <president:name>George Washington</president:name>
+        <birthday:date>2/22/1732</birthday:date>
         <president:took_office> April 30, 1789</president:took_office>
         <president:left_office>March 4, 1797</president:left_office>
         <president:party>no party</president:party>
@@ -27,6 +28,7 @@
     <president:president>
         <president:number>2</president:number>
         <president:name>John Adams</president:name>
+        <birthday:date>10/30/1735</birthday:date>
         <president:took_office>March 4, 1797</president:took_office>
         <president:left_office>March 4, 1801</president:left_office>
         <president:party>Federalist</president:party>
@@ -39,6 +41,7 @@
     <president:president>
         <president:number>3</president:number>
         <president:name>Thomas Jefferson</president:name>
+        <birthday:date>4/13/1743</birthday:date>
         <president:took_office>March 4, 1801</president:took_office>
         <president:left_office>March 4, 1809</president:left_office>
         <president:party>Democratic-Republican</president:party>
@@ -55,6 +58,7 @@
     <president:president>
         <president:number>4</president:number>
         <president:name>James Madison</president:name>
+        <birthday:date>3/16/1751</birthday:date>
         <president:took_office>March 4, 1809</president:took_office>
         <president:left_office>March 4, 1817</president:left_office>
         <president:party>Democratic-Republican</president:party>
@@ -71,6 +75,7 @@
     <president:president>
         <president:number>5</president:number>
         <president:name>James Monroe</president:name>
+        <birthday:date>4/28/1758</birthday:date>
         <president:took_office>March 4, 1817</president:took_office>
         <president:left_office>March 4, 1825</president:left_office>
         <president:party>Democratic-Republican</president:party>
@@ -87,6 +92,7 @@
     <president:president>
         <president:number>6</president:number>
         <president:name>John Quincy Adams</president:name>
+        <birthday:date>7/11/1767</birthday:date>
         <president:took_office>March 4, 1825</president:took_office>
         <president:left_office>March 4, 1829</president:left_office>
         <president:party>Democratic-Republican</president:party>
@@ -99,6 +105,7 @@
     <president:president>
         <president:number>7</president:number>
         <president:name>Andrew Jackson</president:name>
+        <birthday:date>3/15/1767</birthday:date>
         <president:took_office>March 4, 1829</president:took_office>
         <president:left_office>March 4, 1837</president:left_office>
         <president:party>Democratic</president:party>
@@ -115,6 +122,7 @@
     <president:president>
         <president:number>8</president:number>
         <president:name>Martin Van Buren</president:name>
+        <birthday:date>12/5/1782</birthday:date>
         <president:took_office>March 4, 1837</president:took_office>
         <president:left_office>March 4, 1841</president:left_office>
         <president:party>Democratic</president:party>
@@ -127,6 +135,7 @@
     <president:president>
         <president:number>9</president:number>
         <president:name>William Henry Harrison</president:name>
+        <birthday:date>2/9/1773</birthday:date>
         <president:took_office>March 4, 1841</president:took_office>
         <president:left_office>April 4, 1841</president:left_office>
         <president:term>
@@ -138,6 +147,7 @@
     <president:president>
         <president:number>10</president:number>
         <president:name>John Tyler</president:name>
+        <birthday:date>3/29/1790</birthday:date>
         <president:took_office>April 4, 1841</president:took_office>
         <president:left_office>March 4, 1845</president:left_office>
         <president:party>Whig</president:party>
@@ -150,6 +160,7 @@
     <president:president>
         <president:number>11</president:number>
         <president:name>James K. Polk</president:name>
+        <birthday:date>11/2/1795</birthday:date>
         <president:took_office>March 4, 1845</president:took_office>
         <president:left_office>March 4, 1849</president:left_office>
         <president:party>Democratic</president:party>
@@ -162,6 +173,7 @@
     <president:president>
         <president:number>12</president:number>
         <president:name>Zachary Taylor</president:name>
+        <birthday:date>11/24/1784</birthday:date>
         <president:took_office>March 4, 1849</president:took_office>
         <president:left_office>July 9, 1850</president:left_office>
         <president:party>Whig</president:party>
@@ -174,6 +186,7 @@
     <president:president>
         <president:number>13</president:number>
         <president:name>Millard Fillmore</president:name>
+        <birthday:date>1/7/1800</birthday:date>
         <president:took_office>July 9, 1850</president:took_office>
         <president:left_office>March 4, 1853</president:left_office>
         <president:party>Whig</president:party>
@@ -186,6 +199,7 @@
     <president:president>
         <president:number>14</president:number>
         <president:name>Franklin Pierce</president:name>
+        <birthday:date>11/23/1804</birthday:date>
         <president:took_office>March 4, 1853</president:took_office>
         <president:left_office>March 4, 1857</president:left_office>
         <president:party>Democratic</president:party>
@@ -198,6 +212,7 @@
     <president:president>
         <president:number>15</president:number>
         <president:name>James Buchanan</president:name>
+        <birthday:date>4/23/1791</birthday:date>
         <president:took_office>March 4, 1857</president:took_office>
         <president:left_office>March 4, 1861</president:left_office>
         <president:party>Democratic</president:party>
@@ -210,6 +225,7 @@
     <president:president>
         <president:number>16</president:number>
         <president:name>Abraham Lincoln</president:name>
+        <birthday:date>2/12/1809</birthday:date>
         <president:took_office>March 4, 1861</president:took_office>
         <president:left_office>April 15, 1865</president:left_office>
         <president:party>Republican</president:party>
@@ -226,6 +242,7 @@
     <president:president>
         <president:number>17</president:number>
         <president:name>Andrew Johnson</president:name>
+        <birthday:date>12/29/1808</birthday:date>
         <president:took_office>April 15, 1865</president:took_office>
         <president:left_office>March 4, 1869</president:left_office>
         <president:party>Democratic</president:party>
@@ -238,6 +255,7 @@
     <president:president>
         <president:number>18</president:number>
         <president:name>Ulysses S. Grant</president:name>
+        <birthday:date>4/27/1822</birthday:date>
         <president:took_office>March 4, 1869</president:took_office>
         <president:left_office>March 4, 1877</president:left_office>
         <president:party>Republican</president:party>
@@ -254,6 +272,7 @@
     <president:president>
         <president:number>19</president:number>
         <president:name>Rutherford B. Hayes</president:name>
+        <birthday:date>10/4/1822</birthday:date>
         <president:took_office>March 4, 1877</president:took_office>
         <president:left_office>March 4, 1881</president:left_office>
         <president:party>Republican</president:party>
@@ -266,6 +285,7 @@
     <president:president>
         <president:number>20</president:number>
         <president:name>James A. Garfield</president:name>
+        <birthday:date>11/19/1831</birthday:date>
         <president:took_office>March 4, 1881</president:took_office>
         <president:left_office>September 19, 1881</president:left_office>
         <president:party>Republican</president:party>
@@ -278,6 +298,7 @@
     <president:president>
         <president:number>21</president:number>
         <president:name>Chester A. Arthur</president:name>
+        <birthday:date>10/5/1830</birthday:date>
         <president:took_office>September 19, 1881</president:took_office>
         <president:left_office>March 4, 1885</president:left_office>
         <president:party>Republican</president:party>
@@ -290,6 +311,7 @@
     <president:president>
         <president:number>22</president:number>
         <president:name>Grover Cleveland</president:name>
+        <birthday:date>3/18/1837</birthday:date>
         <president:took_office>March 4, 1885</president:took_office>
         <president:left_office>March 4, 1889</president:left_office>
         <president:party>Democratic</president:party>
@@ -302,6 +324,7 @@
     <president:president>
         <president:number>23</president:number>
         <president:name>Benjamin Harrison</president:name>
+        <birthday:date>8/20/1833</birthday:date>
         <president:took_office>March 4, 1889</president:took_office>
         <president:left_office>March 4, 1893</president:left_office>
         <president:party>Republican</president:party>
@@ -314,6 +337,7 @@
     <president:president>
         <president:number>24</president:number>
         <president:name>Grover Cleveland</president:name>
+        <birthday:date>3/18/1837</birthday:date>
         <president:took_office>March 4, 1893</president:took_office>
         <president:left_office>March 4, 1897</president:left_office>
         <president:party>Democratic</president:party>
@@ -326,6 +350,7 @@
     <president:president>
         <president:number>25</president:number>
         <president:name>William McKinley</president:name>
+        <birthday:date>1/29/1843</birthday:date>
         <president:took_office>March 4, 1897</president:took_office>
         <president:left_office>September 14, 1901</president:left_office>
         <president:party>Republican</president:party>
@@ -342,6 +367,7 @@
     <president:president>
         <president:number>26</president:number>
         <president:name>Theodore Roosevelt</president:name>
+         <birthday:date>10/27/1858</birthday:date>
         <president:took_office>September 14, 1901</president:took_office>
         <president:left_office>March 4, 1909</president:left_office>
         <president:party>Republican</president:party>
@@ -358,6 +384,7 @@
     <president:president>
         <president:number>27</president:number>
         <president:name>William Howard Taft</president:name>
+        <birthday:date>9/15/1857</birthday:date>
         <president:took_office>March 4, 1909</president:took_office>
         <president:left_office>March 4, 1913</president:left_office>
         <president:party>Republican</president:party>
@@ -370,6 +397,7 @@
     <president:president>
         <president:number>28</president:number>
         <president:name>Woodrow Wilson</president:name>
+        <birthday:date>12/28/1856</birthday:date>
         <president:took_office>March 4, 1913</president:took_office>
         <president:left_office>March 4, 1921</president:left_office>
         <president:party>Democratic</president:party>
@@ -382,6 +410,7 @@
     <president:president>
         <president:number>29</president:number>
         <president:name>Warren G. Harding</president:name>
+        <birthday:date>11/2/1865</birthday:date>
         <president:took_office>March 4, 1921</president:took_office>
         <president:left_office>August 2, 1923</president:left_office>
         <president:party>Republican</president:party>
@@ -394,6 +423,7 @@
     <president:president>
         <president:number>30</president:number>
         <president:name>Calvin Coolidge</president:name>
+        <birthday:date>7/4/1872</birthday:date>
         <president:took_office>August 2, 1923</president:took_office>
         <president:left_office>March 4, 1929</president:left_office>
         <president:party>Republican</president:party>
@@ -406,6 +436,7 @@
     <president:president>
         <president:number>31</president:number>
         <president:name>Herbert Hoover</president:name>
+        <birthday:date>8/10/1874</birthday:date>
         <president:took_office>March 4, 1929</president:took_office>
         <president:left_office>March 4, 1933</president:left_office>
         <president:party>Republican</president:party>
@@ -418,6 +449,7 @@
     <president:president>
         <president:number>32</president:number>
         <president:name>Franklin D. Roosevelt</president:name>
+        <birthday:date>1/30/1882</birthday:date>
         <president:took_office>March 4, 1933</president:took_office>
         <president:left_office>April 12, 1945</president:left_office>
         <president:party>Democratic</president:party>
@@ -442,6 +474,7 @@
     <president:president>
         <president:number>33</president:number>
         <president:name>Harry S. Truman</president:name>
+        <birthday:date>5/8/1884</birthday:date>
         <president:took_office>April 12, 1945</president:took_office>
         <president:left_office>January 20, 1953</president:left_office>
         <president:party>Democratic</president:party>
@@ -458,6 +491,7 @@
     <president:president>
         <president:number>34</president:number>
         <president:name>Dwight D. Eisenhower</president:name>
+        <birthday:date>10/14/1890</birthday:date>
         <president:took_office>January 20, 1953</president:took_office>
         <president:left_office>January 20, 1961</president:left_office>
         <president:party>Republican</president:party>
@@ -474,6 +508,7 @@
     <president:president>
         <president:number>35</president:number>
         <president:name>John F. Kennedy</president:name>
+        <birthday:date>5/29/1917</birthday:date>
         <president:took_office>January 20, 1961</president:took_office>
         <president:left_office>November 22, 1963</president:left_office>
         <president:party>Democratic</president:party>
@@ -486,6 +521,7 @@
     <president:president>
         <president:number>36</president:number>
         <president:name>Lyndon B. Johnson</president:name>
+        <birthday:date>8/27/1908</birthday:date>
         <president:took_office>November 22, 1963</president:took_office>
         <president:left_office>January 20, 1969</president:left_office>
         <president:party>Democratic</president:party>
@@ -502,6 +538,7 @@
     <president:president>
         <president:number>37</president:number>
         <president:name>Richard Nixon</president:name>
+        <birthday:date>1/9/1913</birthday:date>
         <president:took_office>January 20, 1969</president:took_office>
         <president:left_office>August 9, 1974</president:left_office>
         <president:party>Republican</president:party>
@@ -518,6 +555,7 @@
     <president:president>
         <president:number>38</president:number>
         <president:name>Gerald Ford</president:name>
+        <birthday:date>7/14/1913</birthday:date>
         <president:took_office>August 9, 1974</president:took_office>
         <president:left_office>January 20, 1977</president:left_office>
         <president:party>Republican</president:party>
@@ -530,6 +568,7 @@
     <president:president>
         <president:number>39</president:number>
         <president:name>Jimmy Carter</president:name>
+        <birthday:date>10/1/1924</birthday:date>
         <president:took_office>January 20, 1977</president:took_office>
         <president:left_office>January 20, 1981</president:left_office>
         <president:party>Democratic</president:party>
@@ -542,6 +581,7 @@
     <president:president>
         <president:number>40</president:number>
         <president:name>Ronald Reagan</president:name>
+        <birthday:date>2/6/1911</birthday:date>
         <president:took_office>January 20, 1981</president:took_office>
         <president:left_office>January 20, 1989</president:left_office>
         <president:party>Republican</president:party>
@@ -558,6 +598,7 @@
     <president:president>
         <president:number>41</president:number>
         <president:name>George H. W. Bush</president:name>
+        <birthday:date>6/12/1924</birthday:date>
         <president:took_office>January 20, 1989</president:took_office>
         <president:left_office>January 20, 1993</president:left_office>
         <president:party>Republican</president:party>
@@ -570,6 +611,7 @@
     <president:president>
         <president:number>42</president:number>
         <president:name>Bill Clinton</president:name>
+        <birthday:date>8/19/1946</birthday:date>
         <president:took_office>January 20, 1993</president:took_office>
         <president:left_office>January 20, 2001</president:left_office>
         <president:party>Democratic</president:party>
@@ -586,6 +628,7 @@
     <president:president>
         <president:number>43</president:number>
         <president:name>George W. Bush</president:name>
+        <birthday:date>7/6/1946</birthday:date>
         <president:took_office>January 20, 2001</president:took_office>
         <president:left_office>January 20, 2009</president:left_office>
         <president:party>Republican</president:party>
@@ -602,6 +645,7 @@
     <president:president>
         <president:number>44</president:number>
         <president:name>Barack Obama</president:name>
+        <birthday:date>8/4/1961</birthday:date>
         <president:took_office>January 20, 2009</president:took_office>
         <president:left_office>Incumbent</president:left_office>
         <president:party>Democratic</president:party>
