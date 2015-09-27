@@ -1,1 +1,6 @@
 @namespace birthday url(http://www.du.edu/~mschwart/xml/birthday);
+
+
+birthday|date { display:block; font-family: roman, 'times new roman', times, serif; font-size: 12pt; font-weight: bold; color: #00f;  }
+
+birthday\:date { display:block; font-family: roman, 'times new roman', times, serif; font-size: 12pt; font-weight: bold; color: #00f; }
