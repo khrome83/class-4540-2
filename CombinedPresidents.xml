@@ -4,7 +4,6 @@
   Date: 9/27/2015
   File: CombinedPresidents.xml
 -->
-<!-- Information about US Presidents -->
 <?xml-stylesheet type="text/css" href="president.css" ?>
 <?xml-stylesheet type="text/css" href="birthday.css" ?>
 <president:presidents date="2012-08-18" xmlns:president="http://www.du.edu/~mschwart/xml/president" xmlns:birthday="http://www.du.edu/~mschwart/xml/birthday">
